@@ -1,0 +1,22 @@
+{
+  "name": "kiran_naz_countdown_timer",
+  "version": "1.0.1",
+  "description": "My Countdown Timer is a versatile and user_friendly tool.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kiran Farhan",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.9"
+  },
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.3.4"
+  }
+}
